@@ -23,6 +23,7 @@ function copiar(cb){
 
     return cb()
 }
+console.log(a)
 
 function fim(cb){
 
